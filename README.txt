@@ -87,5 +87,5 @@ AND UNCOMMENT LINES:
 The API KEY for the weather on line 71 has been [REDACTED]
 
 == SCHEMATIC ==
-![](textures/DormKit_Circuit.png)
+![schematic](https://github.com/AlexaWitkin/DormKit/blob/main/textures/DormKit_Circuit.png)
 
